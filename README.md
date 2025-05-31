@@ -2,7 +2,7 @@
 
 A sleek and responsive currency converter app built using **HTML**, **CSS**, and **JavaScript**. It fetches live exchange rates from a public API and allows you to convert between different currencies with ease.
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](./CurrencyCoverterImage.png)
 
 ## 🚀 Features
 
