@@ -21,8 +21,6 @@ A sleek and responsive currency converter app built using **HTML**, **CSS**, and
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript 
 - [ExchangeRate-API](https://www.exchangerate-api.com/)
-
-#Screenshot 
 
